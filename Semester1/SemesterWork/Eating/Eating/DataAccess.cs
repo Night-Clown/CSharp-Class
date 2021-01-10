@@ -1,7 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Data.OleDb;
 using System.Data;
 using System.Windows.Forms;
+
 namespace Eating
 {
     class DataAccess
@@ -37,14 +42,14 @@ namespace Eating
                 OleDbCommand oledbCmd = new OleDbCommand(sql, oledbCon);
                 oledbCmd.ExecuteNonQuery();
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 MessageBox.Show(e.Message + "提示");
                 return false;
             }
             finally
             {
-                oledbCon.Close();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                oledbCon.Close();
             }
             return true;
         }

@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 using System.Data.OleDb;
 
 namespace Eating
 {
-    class DataLoginAccess:DataAccess
+    class DataLoginAccess : DataAccess
     {
-        public static string judgeUser(string sql1,string sql2)
+        public static string judgeUser(string sql1, string sql2)
         {
             dataCon();
             oledbCon.Open();
