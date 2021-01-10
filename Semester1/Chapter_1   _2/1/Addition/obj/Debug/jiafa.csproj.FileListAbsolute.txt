@@ -1,0 +1,12 @@
+D:\day01\jiafa\jiafa\bin\Debug\jiafa.exe.config
+D:\day01\jiafa\jiafa\bin\Debug\jiafa.exe
+D:\day01\jiafa\jiafa\bin\Debug\jiafa.pdb
+D:\day01\jiafa\jiafa\obj\Debug\jiafa.csprojResolveAssemblyReference.cache
+D:\day01\jiafa\jiafa\obj\Debug\jiafa.frmjiafa.resources
+D:\day01\jiafa\jiafa\obj\Debug\jiafa.Properties.Resources.resources
+D:\day01\jiafa\jiafa\obj\Debug\jiafa.csproj.GenerateResource.Cache
+D:\day01\jiafa\jiafa\obj\Debug\jiafa.exe
+D:\day01\jiafa\jiafa\obj\Debug\jiafa.pdb
+C:\Users\zx\Desktop\21scy\1\jiafa\bin\Debug\jiafa.exe.config
+C:\Users\zx\Desktop\21scy\1\jiafa\obj\Debug\jiafa.exe
+C:\Users\zx\Desktop\21scy\1\jiafa\obj\Debug\jiafa.pdb

@@ -1,0 +1,14 @@
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.frmtime.resources
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\day01\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+F:\C#\新建文件夹\2 shijianzhunhuan\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+F:\C#\新建文件夹\2 shijianzhunhuan\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+F:\C#\新建文件夹\2 shijianzhunhuan\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\zx\Desktop\21scy\2\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\zx\Desktop\21scy\2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\zx\Desktop\21scy\2\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

@@ -1,0 +1,9 @@
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\bin\Debug\xueshengchengji.exe.config
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\bin\Debug\xueshengchengji.exe
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\bin\Debug\xueshengchengji.pdb
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\obj\Debug\xueshengchengji.ScoreEvaluator.resources
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\obj\Debug\xueshengchengji.frm2.resources
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\obj\Debug\xueshengchengji.Properties.Resources.resources
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\obj\Debug\TransferCal.csproj.GenerateResource.Cache
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\obj\Debug\xueshengchengji.exe
+C:\Users\zx\Desktop\21scy\5~6\xueshengchengji\obj\Debug\xueshengchengji.pdb

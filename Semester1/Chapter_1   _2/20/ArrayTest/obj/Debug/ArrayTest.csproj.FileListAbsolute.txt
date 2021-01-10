@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\bin\Debug\ArrayTest.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\bin\Debug\ArrayTest.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\bin\Debug\ArrayTest.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\obj\Debug\ArrayTest.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\obj\Debug\ArrayTest.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\obj\Debug\ArrayTest.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\obj\Debug\ArrayTest.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayTest\ArrayTest\obj\Debug\ArrayTest.pdb
+C:\Users\zx\Desktop\21scy\20\ArrayTest\bin\Debug\ArrayTest.exe.config
+C:\Users\zx\Desktop\21scy\20\ArrayTest\obj\Debug\ArrayTest.exe
+C:\Users\zx\Desktop\21scy\20\ArrayTest\obj\Debug\ArrayTest.pdb

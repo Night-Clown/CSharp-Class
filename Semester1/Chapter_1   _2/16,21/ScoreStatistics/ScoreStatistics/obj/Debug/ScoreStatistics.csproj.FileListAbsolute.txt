@@ -1,0 +1,20 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\bin\Debug\ScoreStatistics.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\bin\Debug\ScoreStatistics.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\bin\Debug\ScoreStatistics.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.BipartiteStatistics.resources
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\bin\Debug\ScoreStatistics.exe.config
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.exe
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.pdb
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\bin\Debug\ScoreStatistics.exe
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\bin\Debug\ScoreStatistics.pdb
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.csprojResolveAssemblyReference.cache
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.BipartiteStatistics.resources
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.ScoreStatistics.resources
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.Properties.Resources.resources
+C:\Users\zx\Desktop\21scy\新建文件夹\ScoreStatistics\ScoreStatistics\obj\Debug\ScoreStatistics.csproj.GenerateResource.Cache

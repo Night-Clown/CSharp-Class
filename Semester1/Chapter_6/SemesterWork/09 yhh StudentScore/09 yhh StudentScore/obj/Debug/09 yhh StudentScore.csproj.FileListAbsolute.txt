@@ -1,0 +1,37 @@
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\bin\Debug\09 yhh StudentScore.exe.config
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\bin\Debug\09 yhh StudentScore.exe
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\bin\Debug\09 yhh StudentScore.pdb
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.csprojResolveAssemblyReference.cache
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmLogin.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmMain.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmManageStu.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.Properties.Resources.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.csproj.GenerateResource.Cache
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.exe
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.pdb
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmAddCourse.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmAddScore.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmAddStu.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmEditCourse.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmEditStu.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmManageCourse.resources
+D:\yhh\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmManageScore.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\bin\Debug\09 yhh StudentScore.exe.config
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\bin\Debug\09 yhh StudentScore.exe
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\bin\Debug\09 yhh StudentScore.pdb
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.csprojAssemblyReference.cache
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmAddCourse.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmAddScore.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmAddStu.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmEditCourse.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmEditStu.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmLogin.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmMain.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmManageCourse.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmManageScore.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.frmManageStu.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\_09_yhh_StudentScore.Properties.Resources.resources
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.csproj.GenerateResource.cache
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.csproj.CoreCompileInputs.cache
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.exe
+D:\Codes\C#\ClassDevelopment\Chapter_6\SemesterWork\09 yhh StudentScore\09 yhh StudentScore\obj\Debug\09 yhh StudentScore.pdb

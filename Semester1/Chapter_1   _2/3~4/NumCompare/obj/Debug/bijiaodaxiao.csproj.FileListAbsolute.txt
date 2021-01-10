@@ -1,0 +1,17 @@
+D:\day01\bijiaodaxiao\bijiaodaxiao\bin\Debug\bijiaodaxiao.exe.config
+D:\day01\bijiaodaxiao\bijiaodaxiao\bin\Debug\bijiaodaxiao.exe
+D:\day01\bijiaodaxiao\bijiaodaxiao\bin\Debug\bijiaodaxiao.pdb
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.csprojResolveAssemblyReference.cache
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.Form1.resources
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.Properties.Resources.resources
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.csproj.GenerateResource.Cache
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.exe
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.pdb
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.Form2.resources
+D:\day01\bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.Form3.resources
+F:\C#\新建文件夹\3 bijiaodaxiao\bijiaodaxiao\bin\Debug\bijiaodaxiao.exe.config
+F:\C#\新建文件夹\3 bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.exe
+F:\C#\新建文件夹\3 bijiaodaxiao\bijiaodaxiao\obj\Debug\bijiaodaxiao.pdb
+C:\Users\zx\Desktop\21scy\3~4\bijiaodaxiao\bin\Debug\bijiaodaxiao.exe.config
+C:\Users\zx\Desktop\21scy\3~4\bijiaodaxiao\obj\Debug\bijiaodaxiao.exe
+C:\Users\zx\Desktop\21scy\3~4\bijiaodaxiao\obj\Debug\bijiaodaxiao.pdb
